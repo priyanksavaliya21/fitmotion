@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30.754" height="25.247" viewBox="0 0 30.754 25.247">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1066" data-name="Rectangle 1066" width="30.754" height="25.247" transform="translate(12703 13331)"/>
+    </clipPath>
+  </defs>
+  <g id="facebook-icon" transform="translate(-12703 -13331)" clip-path="url(#clip-path)">
+    <g id="facebook" transform="translate(12706 13331)">
+      <g id="Group_351" data-name="Group 351" transform="translate(0)">
+        <path id="Path_282" data-name="Path 282" d="M22.288,0H2.959A2.962,2.962,0,0,0,0,2.959v19.33a2.962,2.962,0,0,0,2.959,2.959h19.33a2.962,2.962,0,0,0,2.959-2.959V2.959A2.962,2.962,0,0,0,22.288,0Zm.986,22.288a.987.987,0,0,1-.986.986H16.667V15.237h3.047l.5-3.057h-3.55v-2.12A1.454,1.454,0,0,1,18.146,8.58h2.022V5.523H18.146a4.536,4.536,0,0,0-4.535,4.545V12.18h-2.96v3.057h2.96v8.038H2.959a.987.987,0,0,1-.986-.986V2.959a.987.987,0,0,1,.986-.986h19.33a.987.987,0,0,1,.986.986Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
